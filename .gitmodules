@@ -1,9 +1,3 @@
 [submodule "hypr/themes/garden"]
-	path = hypr/themes/garden
-	url = https://github.com/taylor85345/garden-hyprland-theme
-[submodule "hypr/themes/neon"]
-	path = hypr/themes/neon
-	url = https://github.com/taylor85345/neon-hyprland-theme
-[submodule "hypr/themes/cyber"]
-	path = hypr/themes/cyber
-	url = https://github.com/taylor85345/cyber-hyprland-theme.git
+	path = hypr/themes/dark-orange
+	url = https://github.com/amaali7/hyprland-dark-orange
